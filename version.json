@@ -1,0 +1,9 @@
+{
+  "version": "3.3",
+  "download": "https://github.com/moaaz-infinity/infinity-focus/releases/latest/download/InfinityFocus.exe",
+  "critical": false,
+  "added": [
+    "إشعار تلقائي لما تنزل نسخة جديدة، فيه اللي اتضاف واللي اتصلح"
+  ],
+  "fixed": []
+}
